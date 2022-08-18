@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+# mathjax: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Alex! I'm a first year graduate student in the UC Berkeley - UCSF Joint Bioengineering PhD Program. I graduated from MIT in 2022 with a SB in Chemistry with a Focus in Applied Machine Learning. During my undergrad, I worked on
+- **organic synthesis**: synthesizing extended rigid $$\pi$$-conjugated helical structures for optomagnetic materials.
+- **machine learning for protein design**: combining tertiary motifs (TERMs) with energy-based modeling to improve graph-based protein design models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm generally interested in the ways we can apply computation and scientific intuitions to assist and accelerate biochemical scientific discovery. On the computational side, I'm interested in geometric/graph deep learning, probabalistic inference, and program synthesis. On the biochemical side, I'm interested in protein design and engineering, in particular on the topics of enzymatic catalysis, protein-protein interactions, and ligand-protein interactions.
